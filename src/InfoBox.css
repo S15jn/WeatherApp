@@ -1,0 +1,27 @@
+.infobox {
+    text-align: center;
+}
+
+.cardconatiner {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+
+}
+
+.infobox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.cardcontainer {
+    width: 100%;
+    max-width: 400px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
